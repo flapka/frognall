@@ -1,5 +1,5 @@
-5A. Preliminary rule 
-5A1. Prescribed punctuation
+#5A. Preliminary rule 
+##5A1. Prescribed punctuation
 For instructions on the use of spaces before and after prescribed punctuation, see 0E.
 Precede this area by a period-space-dash-space or start a new paragraph.
 Precede an illustration statement by a colon.
@@ -7,18 +7,18 @@ Precede the size by a semicolon.
 Enclose a statement of format in parentheses.
 Precede a statement of accompanying material by a plus sign.
 Enclose physical details of accompanying material in parentheses.
-5A2. Sources of information
+##5A2. Sources of information
 Take information for this area from the publication itself.
-5B. Extent 
+#5B. Extent 
 5B1-5B14. Publications in One Physical Unit
 5B1. General rule
-5B1.1. The statement of extent should account for every leaf in the volume as issued by the publisher, including leaves of text, leaves of plates, and blank leaves. It should not include leaves added as part of the binding or the binding itself.
+**5B1.1.** The statement of extent should account for every leaf in the volume as issued by the publisher, including leaves of text, leaves of plates, and blank leaves. It should not include leaves added as part of the binding or the binding itself.
 5B1.2. Record the complete number of leaves, pages, or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. Describe a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, in terms of pages. Describe a volume with leaves numbered on one side only, or with leaves unnumbered and printed on one side only, in terms of leaves. If the leaves of a volume are numbered and printed on one side only, state this fact in a note. Describe in terms of columns a volume so numbered when it is printed with more than one column to the page. If a publication contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
 5B1.3. Recording the “complete number” as stated above means recording the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to succeeding rules, e.g., 5B3, for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the publication. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word or abbreviation indicating pages or leaves. Use arabic numerals to designate pages, etc., that are numbered in words or in characters other than arabic or roman and make an explanatory note.
-x, 32 p., 86 leaves
-lxiij, [1] p.
-XII, 120 leaves
-381 columns
+> x, 32 p., 86 leaves
+> lxiij, [1] p.
+> XII, 120 leaves
+> 381 columns
 a-h p.
 99, [1] p.
 Note: Pages numbered in words "one" to "ninety-nine"
