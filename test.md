@@ -1,5 +1,7 @@
-#5A. Preliminary rule 
-##5A1. Prescribed punctuation
+# 5A. Preliminary rule
+
+## 5A1. Prescribed punctuation
+
 For instructions on the use of spaces before and after prescribed punctuation, see 0E.
 Precede this area by a period-space-dash-space or start a new paragraph.
 Precede an illustration statement by a colon.
