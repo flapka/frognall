@@ -3,7 +3,9 @@
 __5C1.1.__ To indicate the presence of illustration, use the abbreviation `ill.` after the statement of extent. 
 ```
 8 v. : ill.
+
 492 p. : ill.
+
 246 p., 32 p. of plates : ill.
 ```
 __5C1.2.__ *Optionally*, disregard minor illustrations. 
@@ -15,6 +17,7 @@ __5C1.4.__ *Optionally*, treat significant title-page illustrations as illustrat
 __5C1.5.__ *Optionally*, add the graphic process or technique in parentheses, preferably using a term found in a standard vocabulary. Give more detailed descriptions of the illustrations in a note if considered important.
 ```
 : ill. (woodcuts)
+
 : ill. (steel engravings)
 ```
 ## 5C2. Types of illustrations
@@ -23,11 +26,13 @@ __5C2.1.__ *Optionally*, specify particular types of illustrations. Use in alpha
 __5C2.2.__ Replace `ill.` with terms specifying particular types of illustrations if the particular types are the only illustrations in the publication.
 ```
 : maps
+
 : ports. (Woodburytypes)
 ```
 __5C2.3.__ Precede terms specifying particular types of illustrations with `ill.` if the particular types are not the only illustrations in the publication.
 ```
 : ill., maps, plans
+
 : ill. (wood engravings), maps (lithographs)
 ```
 ## 5C3. Color illustrations
@@ -44,31 +49,37 @@ __5C3.1.__ Describe color illustrations as such using the abbreviation `col.` Tr
 __5C3.2.__ Do not describe hand-colored illustrations as `col.` unless there is evidence that the publication was issued with the hand coloring. In case of doubt, consider any machine-press publication with hand coloring to have been issued that way by the publisher. Always mention publisher-issued hand coloring in a note (see [7B10.3](https://www.youtube.com/watch?v=oHg5SJYRHA0)); make a local note on the presence of other hand coloring if considered important (see [7B19.1.3](https://www.youtube.com/watch?v=oHg5SJYRHA0)).
 ```
 : col. ill.
-Note: With hand-colored wood engravings 
-(Comment: Title contains statement “with colored engravings”)
+  Note: With hand-colored wood engravings 
+  (Comment: Title contains statement “with colored engravings”)
 
 : col. ill. (lithographs)
-Note: Lithographs are hand colored, as issued; see Sitwell, S. Fine bird books, p. 78
+  Note: Lithographs are hand colored, as issued; see Sitwell, S. Fine bird books, p. 78
 ```
 __5C3.3.__ If both the text and illustrations are printed in a single color, do not describe the illustrations as `col.` Make a note to indicate the color of the ink if considered important. 
 ```
 : ill.
-Optional note: Printed in green throughout
+  Optional note: Printed in green throughout
 ```
 ## 5C4. Number of illustrations
 Record the number of illustrations when their number can be ascertained readily (e.g., when the illustrations are listed and their numbers stated).
 ```
 : 94 ill.
+
 : ill., 8 facsims.
+
 : 3 ill., 1 map
+
 : 6 col. ill. (tinted lithographs)
+
 : 2 maps (lithographs), 1 port. (mezzotint)
+
 : 1 ill. (engraving)
-Note: Illustration is a t.p. vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background 
+  Note: Illustration is a t.p. vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background 
 ```
 ## 5C5. Publications consisting entirely or chiefly of illustrations
 If a publication consists entirely or chiefly of illustrations, account for this fact by specifying `all ill.` or `chiefly ill.` Optionally, when the illustrations are all or chiefly of a particular type (see [5C2.2](https://www.youtube.com/watch?v=oHg5SJYRHA0)), replace `ill.` with the term specifying the particular type. 
 ```
 : all ill.
+
 : chiefly maps
 ```
