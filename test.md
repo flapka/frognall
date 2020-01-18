@@ -14,8 +14,8 @@ __5C1.4.__ *Optionally*, treat significant title-page illustrations as illustrat
 
 __5C1.5.__ *Optionally*, add the graphic process or technique in parentheses, preferably using a term found in a standard vocabulary. Give more detailed descriptions of the illustrations in a note if considered important.
 ```
- : ill. (woodcuts)
- : ill. (steel engravings)
+: ill. (woodcuts)
+: ill. (steel engravings)
 ```
 ## 5C2. Types of illustrations
 5C2.1. Optionally, specify particular types of illustrations. Use in alphabetical order one or more such terms as the following: coats of arms, diagrams, facsims., forms, geneal. tables, maps, music, plans, ports. (use for single or group portraits), samples. 
