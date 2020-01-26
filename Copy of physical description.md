@@ -1,3 +1,11 @@
+**TEST because testing**
+
+Editing the text Francis entered.
+
+Midwinter 2020
+
+*alt, 20200126*
+
 **5A. Preliminary rule **
 
 **5A1. Prescribed punctuation**
@@ -86,7 +94,8 @@ iii, [1], 88 p.
 
 (*Comment*: The unnumbered pages are not closely associated with either adjacent section and one or more are printed on a verso)
 
-**5B3.2. **Consider numbered sequences to include unnumbered pages or leaves falling logically within the sequence, counting back from the recorded number to 1.
+**5B3.2. **Consider numbered sequences to include unnumbered pages or leaves falling logically within the sequence, counting back from the recorded number 
+to 1.
 
 [2], 40 p.
 
