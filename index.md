@@ -1,5 +1,5 @@
 # 5C. Illustration 
-## 5C1. General rule
+<h2 id="5c1">5C1. General rule</h2>
 __5C1.1.__ To indicate the presence of illustration, use the abbreviation `ill.` after the statement of extent. 
 ```
 8 v. : ill.
@@ -20,7 +20,7 @@ __5C1.5.__ *Optionally*, add the graphic process or technique in parentheses, pr
 
 : ill. (steel engravings)
 ```
-## 5C2. Types of illustrations
+<h2 id="5c2">5C2. Types of illustrations</h2>
 __5C2.1.__ *Optionally*, specify particular types of illustrations. Use in alphabetical order one or more such terms as the following: `coats of arms`, `diagrams`, `facsims.`, `forms`, `geneal. tables`, `maps`, `music`, `plans`, `ports.` (use for single or group portraits), `samples`. 
 
 __5C2.2.__ Replace `ill.` with terms specifying particular types of illustrations if the particular types are the only illustrations in the publication.
@@ -35,7 +35,7 @@ __5C2.3.__ Precede terms specifying particular types of illustrations with `ill.
 
 : ill. (wood engravings), maps (lithographs)
 ```
-## 5C3. Color illustrations
+<h2 id="5c3">5C3. Color illustrations</h2>
 __5C3.1.__ Describe color illustrations as such using the abbreviation `col.` Treat illustrations printed with a tint block (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
 ```
 : col. ill.
@@ -60,7 +60,7 @@ __5C3.3.__ If both the text and illustrations are printed in a single color, do 
 : ill.
   Optional note: Printed in green throughout
 ```
-## 5C4. Number of illustrations
+<h2 id="5c4">5C4. Number of illustrations</h2>
 Record the number of illustrations when their number can be ascertained readily (e.g., when the illustrations are listed and their numbers stated).
 ```
 : 94 ill.
@@ -76,7 +76,7 @@ Record the number of illustrations when their number can be ascertained readily 
 : 1 ill. (engraving)
   Note: Illustration is a t.p. vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background 
 ```
-## 5C5. Publications consisting entirely or chiefly of illustrations
+<h2 id="5c5">5C5. Publications consisting entirely or chiefly of illustrations</h2>
 If a publication consists entirely or chiefly of illustrations, account for this fact by specifying `all ill.` or `chiefly ill.` Optionally, when the illustrations are all or chiefly of a particular type (see [5C2.2](https://www.youtube.com/watch?v=oHg5SJYRHA0)), replace `ill.` with the term specifying the particular type. 
 ```
 : all ill.
