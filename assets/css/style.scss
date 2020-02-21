@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .sidenav {
-  width: 130px;
+  width: 250px;
   position: fixed;
   z-index: 1;
   top: 20px;
@@ -26,5 +26,5 @@
 }
 
 .markdown-body {
-  width: auto;
+  margin-left: 250px;
 }
