@@ -3,13 +3,15 @@
 
 @import "{{ site.theme }}";
 .sidenav {
-  width: 250px;
+  height: 100%;
+  width: 0;
   position: fixed;
   z-index: 1;
   top: 20px;
   left: 10px;
   background: #FFFFFF;
   overflow-x: hidden;
+  transition: 0.5s;
   padding: 8px 0;
 }
 
@@ -19,16 +21,40 @@
   font-size: 25px;
   color: #2196F3;
   display: block;
+  transition: 0.3s;
 }
 
 .sidenav a:hover {
   color: #064579;
 }
 
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+
 .markdown-body {
   margin-left: 250px;
   font-family: "Adobe Caslon Pro", Palatino, serif;
   font-size: 1.35em;
+  transition: margin-left .5s;
 }
 
 code {
