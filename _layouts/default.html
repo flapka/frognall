@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   
-  <nav class="sidenav">
+  <nav id="mySidebar" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
   <a href="#5c1">5c1</a>
   <a href="#5c2">5c2</a>
   <a href="#5c3">5c3</a>
@@ -21,7 +22,7 @@
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
-
+<button class="openbtn" onclick="openNav()">☰ Open Sidebar</button> 
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
@@ -41,6 +42,19 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
+    
+    <script>
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
+    
     {% endif %}
   </body>
 </html>
