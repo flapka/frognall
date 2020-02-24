@@ -1,8 +1,8 @@
 # 5C. Illustration 
 
-<div class="georgia">
-
 <h2 id="5c1">Georgia</h2>
+
+<div class="georgia">
 
 __5C1.1.__ To indicate the presence of illustration, use the abbreviation `ill.` after the statement of extent. 
 ```
