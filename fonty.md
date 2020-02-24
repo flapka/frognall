@@ -24,4 +24,5 @@ __5C1.5.__ *Optionally*, add the graphic process or technique in parentheses, pr
 
 : ill. (steel engravings)
 ```
+
 </div>
